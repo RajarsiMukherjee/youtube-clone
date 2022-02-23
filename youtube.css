@@ -1,0 +1,116 @@
+#container{
+    width: 100%;
+    height: 80px;
+    position: fixed;
+    top: 0;
+    left: 0;
+    padding: 0 4%;
+    background: #0c111b;
+    z-index: 9;
+    display: flex;
+    align-items: center;
+        
+
+}
+#video{
+    border: none;
+    border-bottom: 3px solid rgb(221, 216, 216);
+    background: transparent;
+    outline: none;
+    height: 30px;
+    color:#fff;
+    width: 250px;
+    text-transform: capitalize;
+    font-size: 16px;
+    margin:15px 10px;
+    font-weight: 500;
+    transition: .5s;
+}
+button{
+    margin-right: 50px;
+    height:25px;
+    width:80px;
+    border-radius: 8px;
+}
+#fst{
+    height:100%;
+    width:66%;
+    display: flex;
+}
+h1{
+    color: white;
+}
+#icon{
+    height:40px;
+    width:43px;
+    margin:20px 18px;
+    cursor: pointer;
+    
+}
+#icon1{
+    height:40px;
+    width:43px;
+    margin-top: 20px;
+    cursor: pointer;
+    
+}
+#main{
+    display: grid;
+    grid-template-columns: repeat(4,23%);
+    /* height:1450px; */
+    width:97%;
+    grid-gap:10px;
+    /* grid-template-rows:repeat(5,120px); */
+    margin-top: 78px;
+    margin-left:7px;
+    
+    background-color: rgb(71, 69, 69);
+   
+   
+   
+    /* //margin-top: 100px; */
+}
+p{
+    color:white;
+    margin-bottom: 40px;
+}
+#gti:hover{
+    cursor: pointer;
+
+}
+#main>div{
+    margin-top: 15px;
+    margin-left: 20px;
+    cursor: pointer;
+}
+#sub{
+    height:29px;
+    width:77px;
+    background-color: red;
+    color:white;
+    border-radius: 9px;
+    cursor: pointer;
+}
+#mai1{
+    display: flex;
+}
+#s1{
+    border:1px solid red;
+    height:1450px;
+    width:120px; 
+    text-align: center;
+    /* grid-template-rows:repeat(5,120px); */
+    margin-top: 78px;
+    background-color: rgb(117, 115, 115);
+    /* margin-left: 120px; */
+
+}
+.icon2{
+    height:40px;
+    width:43px;
+    margin-top:20px;
+    margin-left: 37px;
+    cursor: pointer;
+    
+
+}
