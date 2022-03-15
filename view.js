@@ -51,7 +51,7 @@ let{videoId,snippet} = JSON.parse(localStorage.getItem("showut"));
     p7.style.marginLeft="20px";
     
     var share = document.createElement("img");
-    share.src ="https://cdn-icons.flaticon.com/png/128/2958/premium/2958783.png?token=exp=1644422898~hmac=d4dce5afc4a7ef48ac48b81d2b1daf3f";
+    share.src ="https://www.pngitem.com/pimgs/m/527-5279931_share-youtube-logo-png-transparent-png.png";
     share.style.height="36px";
     share.style.width="35px";
     share.style.marginLeft="40px";
