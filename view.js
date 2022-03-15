@@ -181,5 +181,5 @@ let{videoId,snippet} = JSON.parse(localStorage.getItem("showut"));
    
 
     document.querySelector("#icon1").addEventListener("click",function(){
-        window.location.href="youtube.html";
+        window.location.href="index.html";
     })

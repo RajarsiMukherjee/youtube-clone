@@ -69,5 +69,5 @@ var arr=[];
 
     }
     document.querySelector("#icon1").addEventListener("click",function(){
-        window.location.href="youtube.html";
+        window.location.href="index.html";
     })
