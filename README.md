@@ -14,10 +14,10 @@
 <h1>Teck stack we used<h1>
 <h4>I have used these technologies in the following project<h4>
  
-	<h5>JavaScript<h5>
-		<h5>HTML<h5>
-			<h5>CSS<h5>
-        <h5>Free youtube api <h5>
+	JavaScript
+	HTML
+	CSS
+        Free youtube api
 				 
 						 
 							
